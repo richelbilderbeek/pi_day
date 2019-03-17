@@ -22,7 +22,7 @@ by drawing pi with streetchalk at the Groningen city center.
 
 ### [DVHN](https://www.dvhn.nl/groningen/Het-is-Pi-dag-Rich%C3%A8l-Bilderbeek-trekt-spoor-van-pis-door-Groninger-binnenstad-24265650.html)
 
-![From DVHN, picture by Duncan Wijting]([pics/2019Dvhn1.jpg)
+![From DVHN, picture by Duncan Wijting](pics/2019Dvhn1.jpg)
 
 ![From DVHN, picture by Duncan Wijting](pics/2019Dvhn2.jpg)
 
