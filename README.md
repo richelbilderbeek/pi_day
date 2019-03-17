@@ -1,4 +1,4 @@
-# pi_day
+# Pi Day
 
  * What: Celebrate Pi Day, a yearly festivity
  * When:
