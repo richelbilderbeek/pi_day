@@ -75,3 +75,32 @@ at the Groningen city center.
 ![](pics/RC_PiDay2014Reaction1.png)
 ![](pics/RC_PiDay2014Reaction2.png)
 
+
+## 1694
+
+I am unsure if in 1694 they went outside to draw pi symbols with streetchalk,
+but I am pretty sure that they would have appreciated it.
+
+Thanks to Jaap Beintema for sending me [this letter](pi.odt) 
+from the Groningen archives:
+ 
+> Christiaan Huygens aan W. Wichers
+> 
+> 15 juni 1694. 
+> 
+> Den WelEd. Gestrenghen Heere Mijn Heer W. Wichers, 
+> Gedeputeerde ter Vergaderinghe van Haer Hoogmogende 
+> tegenwoordigh tot Groningen. 
+> 
+>         WelEd: Gestrenghe Heer 
+> 
+>     Ick hebbe met UEd. seer aengenaeme ontfangen de gepretendeerde quadratura Circuli in twee gedruckte bladeren, die schijnen de laetste te sijn van een Tractaet, waer in den autheur oock de Duplicatio Cubi meent gevonden te hebben. Sijn naem blijft mij onbekent. Sijn wetenschap in de Geometrie moet niet veel wesen, dewijl hij eijndelijck besluyt dat de Circumferentie des Circels is tot den Diameter als 16 tot 5. 't welck al waere het een Engel uyt den Hemel die het seyde, geensins bij mij soude aengenomen werden, soo seecker weet ick het contrarie door veeler andere ende oock mijn eygene demonstratie. Soo dat het niet de pijne weerdt is nae te soecken, wat misslagh hij begaen heeft in de sijne, 't welck anders licht te vinden waere. 
+Sijnde over enighe daegen bij de Heer Professor de Volder, seijde hij mij, dat de vacerende plaets tot Groeninghen van den Professor matheseos tot noch toe niet en was geremplisseert, 't welck mij heeft doen dencken of het door UEd. toedoen mochte geschiet sijn, om dat misschien noch gedachten hadde om den broeder van den Professor Bernoulli daertoe te beroepen, die ick om sijne sonderlinghe capaciteyt aen UWEd. gerecommandeert hebbe, en soo het tijdt is, nochmaels recommandeere, sijnd mij andersins onbekent. Het is mij leet dat de toestandt der saecken van de Provintie UWEd. niet eerder als seeckeren tijdt toe en laet wederom hier te komen resideren, welcke ick met verlanghen 
+> te gemoet siende, sal mij gelukkigh achten indien ondertusschen occasie mocht hebben om door UWEd. te werden geemployeert als sijnde 
+> 
+>         Mijn Heer 
+> 
+> UWEd. seer oodtmoedigen Dienaer       
+> Chr. Huygens.            
+> 
+>     Haghe den 15.e Jun. 1694. 
