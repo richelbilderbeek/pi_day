@@ -13,6 +13,8 @@ which will be displayed at this page here:
 
 ```
 Status 2020: OK
+
+Note that we assume that there will be less than 99 kids witdh adults :-)
 ```
 
 ## 2019
