@@ -1,21 +1,19 @@
 # Pi Day
 
+```
+Pi Day 2020 is on!
+
+Note that we assume that there will be less than 99 kids witdh adults :-)
+```
+
  * What: Celebrate Pi Day, a yearly festivity
  * When:
    * Gather: 23:57 o'clock on March 13th, a little bit more than three minutes before Pi Day
    * Leave: 0:03 o'clock on March 14th, a little bit more than three minutes in Pi Day
-   * End: when all streetchalk has been used, approximately after an hour</li>
+   * End: when all streetchalk has been used, approximately after an hour
  * Where: bus stop P at Groningen Central Station
  * What to bring: a box of street chalk, for sale in most toy stores
 
-If it is raining, this event is cancelled on March 13th 20:00, 
-which will be displayed at this page here:
-
-```
-Status 2020: OK
-
-Note that we assume that there will be less than 99 kids witdh adults :-)
-```
 
 ## 2019
 
