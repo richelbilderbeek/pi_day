@@ -1,11 +1,5 @@
 # Pi Day
 
-```
-Pi Day 2020 is on!
-
-Note that we assume that there will be less than 99 kids witdh adults :-)
-```
-
  * What: Celebrate Pi Day, a yearly festivity
  * When:
    * Gather: 23:57 o'clock on March 13th, a little bit more than three minutes before Pi Day
@@ -14,10 +8,31 @@ Note that we assume that there will be less than 99 kids witdh adults :-)
  * Where: bus stop P at Groningen Central Station
  * What to bring: a box of street chalk, for sale in most toy stores
 
+If there is rain, the event will be cancelled. This will be shown here
+at 2021-03-13. 
+
+## 2020
+
+In 2020, I celebrated Pi day together with BP and Q van der S-M, 
+by drawing pi with streetchalk at the Groningen city center.
+
+DS celebrated Pi Day in his own fashion:
+
+![DS celebrates Pi Day](pics/2020DS1.jpg)
+
+![DS celebrates Pi Day](pics/2020DS2.jpg)
+
+![DS celebrates Pi Day](pics/2020DS3.jpg)
+
+![DS celebrates Pi Day](pics/2020DS4.jpg)
+
+![DS celebrates Pi Day](pics/2020DS5.jpg)
+
+![DS celebrates Pi Day](pics/2020DS6.jpg)
 
 ## 2019
 
-In 2015, I celebrated Pi day together with R de G and Q van der S-M, 
+In 2019, I celebrated Pi day together with R de G and Q van der S-M, 
 by drawing pi with streetchalk at the Groningen city center.
 
 ### [DVHN](https://www.dvhn.nl/groningen/Het-is-Pi-dag-Rich%C3%A8l-Bilderbeek-trekt-spoor-van-pis-door-Groninger-binnenstad-24265650.html)
