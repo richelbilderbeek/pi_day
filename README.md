@@ -16,6 +16,10 @@ at 2021-03-13.
 In 2020, I celebrated Pi day together with BP and Q van der S-M, 
 by drawing pi with streetchalk at the Groningen city center.
 
+From [RTVNoord](https://www.rtvnoord.nl/nieuws/220010/Gewoon-shoppen-in-Corona-tijden-Je-kan-toch-moeilijk-maanden-thuiszitten):
+
+![](pics/2020rtvnoord_zoom.png)
+
 DS celebrated Pi Day in his own fashion:
 
 ![DS celebrates Pi Day](pics/2020DS1.jpg)
@@ -49,6 +53,8 @@ by drawing pi with streetchalk at the Groningen city center.
 
 In 2015, I celebrated Pi day together with ? by drawing pi with streetchalk 
 at the Groningen city center.
+
+![2018 Pi Day](pics/2018.png)
 
 ## 2017
 
