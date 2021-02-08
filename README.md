@@ -11,6 +11,8 @@
 If there is rain, the event will be cancelled. This will be shown here
 at 2021-03-13. 
 
+Status for 2021-03-14: will happen!
+
 ## 2020
 
 In 2020, I celebrated Pi day together with BP and Q van der S-M, 
