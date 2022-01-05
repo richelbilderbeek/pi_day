@@ -1,21 +1,32 @@
 # Pi Day
 
- * What: Celebrate Pi Day, a yearly festivity
- * When:
-   * Gather: 23:57 o'clock on March 13th, a little bit more than three minutes before Pi Day
-   * Leave: 0:03 o'clock on March 14th, a little bit more than three minutes in Pi Day
-   * End: when all streetchalk has been used, approximately after an hour
- * Where: bus stop P at Groningen Central Station
- * What to bring: a box of street chalk, for sale in most toy stores
+ * What: Celebrate Pi Day, a yearly festivity (similar to [Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day))
+ * When: at Pi Day (that is, March 14th)
+    * Gather: [at sunrise](https://www.timeanddate.com/sun/sweden/uppsala),
+      which is at 6:09
+    * Leave: tau minutes later, 6:15
+    * End: when all streetchalk has been used, approximately after an hour
+ * Where: [Olof Palmes Plats, Uppsala](https://www.openstreetmap.org/search?query=pi%2C%20uppsala#map=19/59.85850/17.64579),
+   which is at the central station (see map below)
+ * To bring: a box of street chalk, knee protectors are recommended
+ * Costs: a box of street chalk :-)
 
-If there is rain, the event will be cancelled. This will be shown here
-at 2021-03-13. 
+If rain is predicted, at 22:00 the day before, the event will be cancelled, 
+which will be displayed in the status indicator here:
 
-Status for 2021-03-14: will happen!
+```
+2022: probably yes
+```
+
+![Gathering location](pics/map_uppsala.png)
+
+## 2021
+
+In 2021, I celebrate Pi Day by thinking deeply about it in Swedish.
 
 ## 2020
 
-In 2020, I celebrated Pi day together with BP and Q van der S-M, 
+In 2020, I celebrated Pi Day together with BP and Q van der S-M, 
 by drawing pi with streetchalk at the Groningen city center.
 
 From [RTVNoord](https://www.rtvnoord.nl/nieuws/220010/Gewoon-shoppen-in-Corona-tijden-Je-kan-toch-moeilijk-maanden-thuiszitten):
@@ -38,7 +49,7 @@ DS celebrated Pi Day in his own fashion:
 
 ## 2019
 
-In 2019, I celebrated Pi day together with R de G and Q van der S-M, 
+In 2019, I celebrated Pi Day together with R de G and Q van der S-M, 
 by drawing pi with streetchalk at the Groningen city center.
 
 ### [DVHN](https://www.dvhn.nl/groningen/Het-is-Pi-dag-Rich%C3%A8l-Bilderbeek-trekt-spoor-van-pis-door-Groninger-binnenstad-24265650.html)
@@ -53,7 +64,7 @@ by drawing pi with streetchalk at the Groningen city center.
 
 ## 2018
 
-In 2015, I celebrated Pi day together with ? by drawing pi with streetchalk 
+In 2015, I celebrated Pi Day together with ? by drawing pi with streetchalk 
 at the Groningen city center.
 
 ![2018 Pi Day](pics/2018.png)
@@ -65,7 +76,7 @@ We cannot prove this, as nobody put their pictures online where we could find th
 
 ## 2016
 
-In 2015, I celebrated Pi day together with ? by drawing pi with streetchalk 
+In 2016, I celebrated Pi day together with ? by drawing pi with streetchalk 
 at the Groningen city center.
 
 ![](pics/RC_PiDay2016_1.png)
@@ -74,7 +85,7 @@ at the Groningen city center.
 
 ## 2015
 
-In 2015, I celebrated Pi day together with C.T. and W.S. by drawing pi with streetchalk 
+In 2015, I celebrated Pi Day together with C.T. and W.S. by drawing pi with streetchalk 
 at the Groningen city center.
 
 ![](pics/RC_PiDay2015_1.png)
@@ -89,7 +100,7 @@ From [www.dichtbij.nl](http://www.dichtbij.nl/groningen/regionaal-nieuws/artikel
 
 ## 2014
 
-In 2014 I celebrated Pi day together with C.D. be drawing pi with streetchalk 
+In 2014 I celebrated Pi Day together with C.D. be drawing pi with streetchalk 
 at the Groningen city center.
 
 ![](pics/RC_PiDay2014Pi1.jpg)
@@ -97,7 +108,6 @@ at the Groningen city center.
 ![](pics/RC_PiDay2014Pi3.jpg)
 ![](pics/RC_PiDay2014Reaction1.png)
 ![](pics/RC_PiDay2014Reaction2.png)
-
 
 ## 1694
 
