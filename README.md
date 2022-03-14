@@ -28,7 +28,7 @@ In 2021, I celebrated Pi Day together with AH in the Uppsala city center:
 
 ![AH at work](pics/2022_pi_day_at_work.jpg)
 
-![AH done](2022_pi_day_done.jpg)
+![AH done](pics/2022_pi_day_done.jpg)
 
 ## 2021
 
