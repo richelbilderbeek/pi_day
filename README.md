@@ -15,14 +15,24 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2022: probably yes
+2023: probably yes
 ```
 
 ![Gathering location](pics/map_uppsala.png)
 
+## 2022
+
+In 2021, I celebrated Pi Day together with AH in the Uppsala city center:
+
+![Selfie](pics/2022_pi_day_selfie.jpg)
+
+![AH at work](pics/2022_pi_day_at_work.jpg)
+
+![AH done](2022_pi_day_done.jpg)
+
 ## 2021
 
-In 2021, I celebrate Pi Day by thinking deeply about it in Swedish.
+In 2021, I celebrated Pi Day by thinking deeply about it in Swedish.
 
 ## 2020
 
