@@ -99,13 +99,15 @@ In 2015, I celebrated Pi Day together with C.T. and W.S. by drawing pi with stre
 at the Groningen city center.
 
 ![](pics/RC_PiDay2015_1.png)
+
 ![](pics/RC_PiDay2015_2.png)
 
-From [www.dichtbij.nl](http://www.dichtbij.nl/groningen/regionaal-nieuws/artikel/3937288/het-getal-pi-duikt-op-in-de-stad-op-pidag.aspx):
-
 ![](pics/RC_PiDay2015_3.png)
+
 ![](pics/RC_PiDay2015_4.png)
+
 ![](pics/RC_PiDay2015_5.png)
+
 ![](pics/RC_PiDay2015_6.png)
 
 ## 2014
