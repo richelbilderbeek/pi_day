@@ -18,7 +18,11 @@ which will be displayed in the status indicator here:
 2023: yes!
 ```
 
- * Yes, Richel will be there for sure with streetchalk!
+> Yes, Richel will be there for sure with streetchalk!
+> If drawing pi symbols will work is an open question,
+> as [according to this weather forecast](https://www.bbc.com/weather/2666199)
+> there is a 61% chance of a drizzle the hour before.
+> Richel will try, but will understand if you think it will not work
 
 ![Gathering location](pics/map_uppsala.png)
 
