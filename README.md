@@ -15,8 +15,10 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2023: probably yes
+2023: yes!
 ```
+
+ * Yes, Richel will be there for sure with streetchalk!
 
 ![Gathering location](pics/map_uppsala.png)
 
