@@ -95,6 +95,8 @@ at the Groningen city center.
 ![](pics/RC_PiDay2016_2.png)
 ![](pics/RC_PiDay2016_3.png)
 
+ * [Tweet](https://twitter.com/ritzotencate/status/709280217119006720)
+
 ## 2015
 
 In 2015, I celebrated Pi Day together with C.T. and W.S. by drawing pi with streetchalk 
@@ -112,6 +114,9 @@ at the Groningen city center.
 
 ![](pics/RC_PiDay2015_6.png)
 
+ * [Tweet](https://twitter.com/roytammens/status/576714411647315968)
+
+
 ## 2014
 
 In 2014 I celebrated Pi Day together with C.D. be drawing pi with streetchalk 
@@ -122,6 +127,9 @@ at the Groningen city center.
 ![](pics/RC_PiDay2014Pi3.jpg)
 ![](pics/RC_PiDay2014Reaction1.png)
 ![](pics/RC_PiDay2014Reaction2.png)
+
+ * [Tweet](https://twitter.com/Nietzman/status/444385736465584128)
+
 
 ## 1694
 
