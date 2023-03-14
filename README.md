@@ -15,16 +15,18 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2023: yes!
+2024: unknown
 ```
 
-> Yes, Richel will be there for sure with streetchalk!
-> If drawing pi symbols will work is an open question,
-> as [according to this weather forecast](https://www.bbc.com/weather/2666199)
-> there is a 61% chance of a drizzle the hour before.
-> Richel will try, but will understand if you think it will not work
-
 ![Gathering location](pics/map_uppsala.png)
+
+## 2023
+
+In 2021, I celebrated Pi Day together with J and J in the Uppsala city center
+
+![](pics/2023_01.jpg)
+
+![](pics/2023_02.jpg)
 
 ## 2022
 
