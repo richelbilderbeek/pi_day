@@ -22,11 +22,15 @@ which will be displayed in the status indicator here:
 
 ## 2023
 
-In 2021, I celebrated Pi Day together with J and J in the Uppsala city center
+In 2023, I celebrated Pi Day together with J and J in the Uppsala city center
 
 ![](pics/2023_01.jpg)
 
 ![](pics/2023_02.jpg)
+
+As well, here is the beautiful masterwork by O.T.:
+
+![](pics/2023_03.jpg)
 
 ## 2022
 
