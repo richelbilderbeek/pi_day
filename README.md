@@ -2,10 +2,9 @@
 
  * What: Celebrate Pi Day, a yearly festivity (similar to [Pi Approximation Day](https://github.com/richelbilderbeek/pi_approximation_day))
  * When: at Pi Day (that is, March 14th)
-    * Gather: [at sunrise](https://www.timeanddate.com/sun/sweden/uppsala),
-      which is at 6:09
-    * Leave: tau minutes later, 6:15
-    * End: when all streetchalk has been used, approximately after an hour
+    * 6:09: gather
+    * 6:15: go!
+    * (around) 7:00: back
  * Where: [Olof Palmes Plats, Uppsala](https://www.openstreetmap.org/search?query=pi%2C%20uppsala#map=19/59.85850/17.64579),
    which is at the central station (see map below)
  * To bring: a box of street chalk, knee protectors are recommended
@@ -15,7 +14,7 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2024: unknown
+2024: seems like a yes!
 ```
 
 ![Gathering location](pics/map_uppsala.png)
