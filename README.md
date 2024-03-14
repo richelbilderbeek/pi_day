@@ -24,11 +24,11 @@ which will be displayed in the status indicator here:
 In 2024, I celebrated Pi Day together with NM and RM 
 mostly close to the Olof Palmes Plats in Uppsala.
 
-![](pics/2024_01.jpg)
+![](pics/2024_1.jpg)
 
-![](pics/2024_02.jpg)
+![](pics/2024_2.jpg)
 
-![](pics/2024_03.jpg)
+![](pics/2024_3.jpg)
 
 ## 2023
 
