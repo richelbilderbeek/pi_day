@@ -14,10 +14,21 @@ If rain is predicted, at 22:00 the day before, the event will be cancelled,
 which will be displayed in the status indicator here:
 
 ```
-2024: YES!
+2025: Probably
 ```
 
 ![Gathering location](pics/map_uppsala.png)
+
+## 2024
+
+In 2024, I celebrated Pi Day together with NM and RM 
+mostly close to the Olof Palmes Plats in Uppsala.
+
+![](pics/2024_01.jpg)
+
+![](pics/2024_02.jpg)
+
+![](pics/2024_03.jpg)
 
 ## 2023
 
